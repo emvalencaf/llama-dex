@@ -1,5 +1,7 @@
 # LLAMADex
-
+[![Versão em inglês](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/emvalencaf/llama-dex/blob/master/README.md)
+&nbsp;&nbsp;
+[![Versão em português](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/emvalencaf/llama-dex/blob/master/README_PT.md)
 ## Resumo
 
 Este projeto fornece um endpoint para processar imagens e retornar entradas semelhantes a Pokédex, alimentadas por um modelo de LLM. O usuário envia uma imagem (por exemplo, JPG) para o servidor backend, que invoca um modelo multimodal de LLM para identificar o objeto ou animal (por exemplo, cegonha) e criar uma entrada de Pokédex para o que foi identificado na imagem.
